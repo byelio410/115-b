@@ -18,7 +18,7 @@
 
 [GitHub](https://github.com/)
 
-![風景圖片](https://images.unsplash.com/photo-1500534623283-312aade485b7)
+![風景圖片](images.jpg)
 
 > 我相信只要願意持續學習，就能一步一步變得更好。
 
